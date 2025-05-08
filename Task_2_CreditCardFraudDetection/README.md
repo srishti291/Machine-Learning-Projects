@@ -11,6 +11,12 @@ Build a machine learning model to detect fraudulent credit card transactions usi
   - 1,000 fraud
   - 9,000 non-fraud
 
+## 📁 Dataset Note
+The original dataset `fraudTest.csv` was too large (142 MB) to be uploaded to GitHub, which has a 100 MB limit.
+
+To test the code, please use a sample or smaller version of the dataset with the same structure, or contact me if needed.
+
+
 ---
 
 ## 🔍 Features Used
