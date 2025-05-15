@@ -12,6 +12,8 @@ Predict whether a customer will leave the bank based on demographic and account 
 ## 📂 Dataset
 **File Used**: `Churn_Modelling.csv`  
 Source: Provided by CodSoft (Kaggle-based)
+📂 Dataset used: [Download CSV here](https://www.kaggle.com/datasets/shantanudhakadd/bank-customer-churn-prediction)
+
 
 ---
 
