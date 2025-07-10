@@ -1,2 +1,2 @@
-# CODSOFT
-Tasks for CodSoft Machine Learning Internship
+# Machine Learning Projects
+Projects based on Machine Learning
